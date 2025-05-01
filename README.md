@@ -1,3 +1,2 @@
-# Personal Website
+# My Website
 
-To see the projects I worked on previously, 
