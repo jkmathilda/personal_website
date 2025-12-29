@@ -49,10 +49,10 @@ a {
   text-decoration-color: white;
 }
 a:hover {
-  color: rgb(87, 137, 236);
+  color: rgb(150, 150, 150);
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(137, 133, 252);
+  text-decoration-color: rgb(150, 150, 150);
 }
 
 .logo {
